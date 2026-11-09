@@ -59,20 +59,7 @@ I believe good software is built around three things: **simplicity, performance,
 
 ---
 
-## 03 / WHAT I DO
-
-| DOMAIN | CAPABILITIES |
-|:--|:--|
-| Application Engineering | Full-stack web applications, SaaS platforms |
-| Frontend Engineering | React, Next.js, responsive interfaces |
-| Backend Engineering | Node.js, Express, Python, REST APIs |
-| Data Engineering | Database design, queries, optimization |
-| Infrastructure | Linux, VPS, Nginx, PM2, Docker |
-| Optimization | SEO, performance, automation |
-
----
-
-## 04 / GITHUB
+## 03 / GITHUB
 
 <div align="center">
 
@@ -88,7 +75,7 @@ I believe good software is built around three things: **simplicity, performance,
 
 ---
 
-## 05 / CONNECT
+## 04 / CONNECT
 
 <div align="center">
 
