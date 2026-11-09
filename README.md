@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** with 3 years of experience building modern, scalable, and performance-focused web applications.
+I'm a **Full-Stack Software Engineer** with 4 years of experience building modern, scalable, and performance-focused web applications.
 
 I work across the entire development stack, from crafting intuitive interfaces to developing backend systems, APIs, and database architectures.
 
