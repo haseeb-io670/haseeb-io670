@@ -53,23 +53,15 @@ I work across the entire development stack, from crafting intuitive interfaces t
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=haseeb-io670&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-io670&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haseeb-io670&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-io670&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
+### 🐍 Contribution Activity
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=haseeb-io670&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/haseeb-io670/haseeb-io670/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseeb-io670&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
 
 ### 🌐 Find Me Around the Web
 
