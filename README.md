@@ -59,19 +59,16 @@ I believe good software is built around three things: **simplicity, performance,
 
 ---
 
-## 03 / GITHUB
+## 03 / WHAT I DO
 
-<div align="center">
-
-<a href="https://github.com/haseeb-io670?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=haseeb-io670&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&cache_seconds=86400" width="85%" />
-
-</div>
+| DOMAIN | CAPABILITIES |
+|:--|:--|
+| Application Engineering | Full-stack web applications, SaaS platforms |
+| Frontend Engineering | React, Next.js, responsive interfaces |
+| Backend Engineering | Node.js, Express, Python, REST APIs |
+| Data Engineering | Database design, queries, optimization |
+| Infrastructure | Linux, VPS, Nginx, PM2, Docker |
+| Optimization | SEO, performance, automation |
 
 ---
 
