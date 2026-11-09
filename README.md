@@ -1,79 +1,105 @@
-# Haseeb Sajjad
+<!-- HEADER -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js;Turning+Ideas+Into+Digital+Products" />
+<div align="center">
+
+# HASEEB SAJJAD
+
+### SOFTWARE ENGINEER · FULL-STACK DEVELOPER
+
+<p>
+Building digital products with thoughtful engineering, modern technologies, and scalable architecture.
 </p>
 
-<p align="center">
-  <a href="https://github.com/haseeb-io670">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://haseebsajjad.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<a href="https://haseebsajjad.netlify.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-111827?style=flat-square&logo=googlechrome&logoColor=60A5FA" />
+</a>
+<a href="https://github.com/haseeb-io670">
+  <img src="https://img.shields.io/badge/GITHUB-haseeb--io670-111827?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 01 / INTRODUCTION
+
+I'm a **Full-Stack Software Engineer** with 3 years of experience developing modern web applications and solving real-world engineering challenges.
+
+My work spans the entire development lifecycle — from frontend architecture and backend engineering to database design, API development, and production deployment.
+
+I believe good software is built around three things: **simplicity, performance, and maintainability.**
+
+- Building scalable web applications and business platforms.
+- Designing robust backend systems and REST APIs.
+- Developing intuitive interfaces with modern frontend technologies.
+- Managing databases, deployments, and server infrastructure.
+- Continuously exploring better engineering practices.
+
+---
+
+## 02 / TECHNOLOGIES
+
+**Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass" />
+</p>
+
+**Backend & Database**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,postgres,supabase" />
+</p>
+
+**Infrastructure & Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,bash,vscode,postman" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 03 / WHAT I DO
 
-I'm a **Full-Stack Software Engineer** with 4 years of experience building modern, scalable, and performance-focused web applications.
-
-I work across the entire development stack, from crafting intuitive interfaces to developing backend systems, APIs, and database architectures.
-
-- 🔭 Building full-stack web applications
-- 💻 React.js, Next.js, TypeScript & Node.js
-- ⚙️ REST APIs and backend architecture
-- 🗄️ MongoDB, PostgreSQL & Supabase
-- 🚀 VPS deployment, Linux, Nginx & Docker
-- 🌱 Always exploring better ways to engineer software
+| DOMAIN | CAPABILITIES |
+|:--|:--|
+| Application Engineering | Full-stack web applications, SaaS platforms |
+| Frontend Engineering | React, Next.js, responsive interfaces |
+| Backend Engineering | Node.js, Express, Python, REST APIs |
+| Data Engineering | Database design, queries, optimization |
+| Infrastructure | Linux, VPS, Nginx, PM2, Docker |
+| Optimization | SEO, performance, automation |
 
 ---
 
-### ⚡ Tech Stack
+## 04 / GITHUB
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,vite,nodejs,express,python,flask,mongodb,postgres,supabase,git,github,docker,linux,nginx,vscode,postman&perline=8" />
-</p>
+<div align="center">
 
----
+<a href="https://github.com/haseeb-io670?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🧩 Areas of Expertise
+<br/><br/>
 
-- Full-Stack Application Development
-- Frontend Engineering & UI Development
-- Backend Development & REST APIs
-- Database Design & Optimization
-- Automation & Business Logic
-- Server Management & Deployment
-- Performance & SEO Optimization
+<img src="https://github-readme-stats.vercel.app/api?username=haseeb-io670&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&cache_seconds=86400" width="85%" />
+
+</div>
 
 ---
 
-### 📊 GitHub Analytics
+## 05 / CONNECT
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haseeb-io670&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-io670&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+<div align="center">
 
-### 🐍 Contribution Activity
+**Have an interesting project or idea? Let's build something meaningful.**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/haseeb-io670/haseeb-io670/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
-</p>
+<a href="https://github.com/haseeb-io670">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://haseebsajjad.netlify.app">Portfolio</a>
 
-### 🌐 Find Me Around the Web
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/haseeb-io670">GitHub</a> •
-  <a href="https://haseebsajjad.netlify.app">Portfolio</a>
-</p>
+<sub>DESIGNED WITH PURPOSE · ENGINEERED WITH PRECISION</sub>
 
-<p align="center">
-  <i>Building things. Solving problems. Engineering better solutions.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" width="100%" />
-</p>
+</div>
